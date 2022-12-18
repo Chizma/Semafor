@@ -1,0 +1,42 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    background: #1B244A;
+}
+h3 {
+    font-family: 'Abel';
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 3px;
+    text-align: center;
+    color: #EEEEEE;
+}
+.score {
+    background-color: #080001;
+    font-family: 'ABeeZee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 120px;
+    text-align: center;
+    color: #F94F6D;
+    margin: 20px auto;
+    
+}
+
+button {
+    font-family: 'ABeeZee';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    color: #9AABD8;
+    background: transparent;
+    border-color: #9AABD8;
+    border-radius: 5px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
